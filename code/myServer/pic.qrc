@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>png/baiyechuang_lan_guan.png</file>
+        <file>png/baiyechuang_lan_kai.png</file>
+        <file>png/baiyechuang_yezi_guan.png</file>
+        <file>png/kaiyechuang_yezi_kai.png</file>
+        <file>png/background.png</file>
+        <file>png/diaodeng_guan.png</file>
+        <file>png/diaodeng_kai.png</file>
+        <file>png/fengshan_guan.png</file>
+        <file>png/fengshan_kai.png</file>
+        <file>png/kongtiaofengli_guan.png</file>
+        <file>png/kongtiaofengli_kai.png</file>
+        <file>png/kongtiao_guan.png</file>
+        <file>png/kongtiao_fengexian_guan.png</file>
+        <file>png/kongtiaojiemian_fengexian_kai.png</file>
+        <file>png/kongtiao_kai.png</file>
+        <file>png/kongtiaomoshi_guan.png</file>
+        <file>png/kongtiaomoshi_kai.png</file>
+        <file>png/shang_guan.png</file>
+        <file>png/shang_kai.png</file>
+        <file>png/wenzichushi_weixuanzhong.png</file>
+        <file>png/wenzichushi_xuanzhong.png</file>
+        <file>png/wenzi_dafeng_weixuanzhong.png</file>
+        <file>png/wenzi_dafeng_xuanzhong.png</file>
+        <file>png/wenzi_mengfeng_weixuanzhong.png</file>
+        <file>png/wenzi_mengfeng_xuanzhong.png</file>
+        <file>png/wenzisongfeng_weixuanzhong.png</file>
+        <file>png/wenzisongfeng_xuanzhong.png</file>
+        <file>png/wenzi_weifeng_weixuanzhong.png</file>
+        <file>png/wenzi_weifeng_xuanzhong.png</file>
+        <file>png/wenzixiaofeng_weixuanzhong.png</file>
+        <file>png/wenzixiaofeng_xuanzhong.png</file>
+        <file>png/wenzizhileng_weixuanzhong.png</file>
+        <file>png/wenzizhileng_xuanzhong.png</file>
+        <file>png/wenzizidong_weixuanzhong.png</file>
+        <file>png/wenzizidong_xuanzhong.png</file>
+        <file>png/xia_guan.png</file>
+        <file>png/xia_kai.png</file>
+        <file>png/head.png</file>
+    </qresource>
+</RCC>

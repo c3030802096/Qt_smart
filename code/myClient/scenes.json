@@ -1,0 +1,10 @@
+{
+    "回家模式": [
+        { "deviceName": "LivingRoomLight", "state": "ON" },
+        { "deviceName": "AirConditioner", "state": "AUTO" }
+    ],
+    "睡眠模式": [
+        { "deviceName": "LivingRoomLight", "state": "OFF" },
+        { "deviceName": "AirConditioner", "state": "LOW" }
+    ]
+}
